@@ -1,4 +1,4 @@
-# VR Sacrificial Chamber
+# VR Burial Chamber
 
 This is a tiny VR exhibition for inspecting the Burial Chamber of Seschemnefer III. from Giza. The model of the chamber was created and published by the MUT Tübingen.
 
